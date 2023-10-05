@@ -7,36 +7,36 @@ Here is a sample README file for a GitHub React app that uses a Bootstrap templa
 This is a React app that uses a Bootstrap template and JSON data in JavaScript. The app is structured as follows:
 README.md
 Project Root
-├── README.md
-├── package.json
-├── src/
-│   ├── App.js
-│   ├── components/
-│   │   ├── About.jsx
-│   │   ├── Contacts.jsx
-│   │   ├── Features.jsx
-│   │   ├── Header.jsx
-│   │   └── ...
+├── README.md<br>
+├── package.json<br>
+├── src/<br>
+│   ├── App.js<br>
+│   ├── components/<br>
+│   │   ├── About.jsx<br>
+│   │   ├── Contacts.jsx<br>
+│   │   ├── Features.jsx<br>
+│   │   ├── Header.jsx<br>
+│   │   └── ...<br>
 │   ├── api/
-│   │   └── index.js
+│   │   └── index.js<br>
 │   ├── data/
-│   │   ├── aboutData.js
-│   │   ├── contactData.js
-│   │   ├── featuresData.js
-│   │   └── ...
-│   ├── services/
-│   │   └── index.js
-│   ├── index.css
-│   └── index.js
-└── public/
-    ├── assets/
-    │   ├── css/
-    │   │   └── bootstrap.min.css
-    │   ├── fonts/
-    │   │   └── FontAwesome.otf
-    │   └── images/
-    │       └── logo.png
-    └── index.html
+│   │   ├── aboutData.js<br>
+│   │   ├── contactData.js<br>
+│   │   ├── featuresData.js<br>
+│   │   └── ...<br>
+│   ├── services/<br>
+│   │   └── index.js<br>
+│   ├── index.css<br>
+│   └── index.js<br>
+└── public/<br>
+    ├── assets/<br>
+    │   ├── css/<br>
+    │   │   └── bootstrap.min.css<br>
+    │   ├── fonts/<br>
+    │   │   └── FontAwesome.otf<br>
+    │   └── images/<br>
+    │       └── logo.png<br>
+    └── index.html<br>
 
 The `App.js` file is the main entry point for the React app. It imports the necessary components and renders them to the screen.
 
