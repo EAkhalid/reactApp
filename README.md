@@ -9,8 +9,8 @@ README.md
 Project Root
 ├── README.md
 ├── package.json
-├── src/<br>
-│   ├── App.js<br>
+├── src
+│   ├── App.js
 │   ├── components/<br>
 │   │   ├── About.jsx<br>
 │   │   ├── Contacts.jsx<br>
