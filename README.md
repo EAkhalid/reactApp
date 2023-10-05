@@ -5,8 +5,6 @@ Here is a sample README file for a GitHub React app that uses a Bootstrap templa
 # React App with Bootstrap Template and JSON Data
 
 This is a React app that uses a Bootstrap template and JSON data in JavaScript. The app is structured as follows:
-
-
 README.md
 src/
 ├── App.js
