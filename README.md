@@ -7,8 +7,8 @@ Here is a sample README file for a GitHub React app that uses a Bootstrap templa
 This is a React app that uses a Bootstrap template and JSON data in JavaScript. The app is structured as follows:
 README.md
 Project Root
-├── README.md<br>
-├── package.json<br>
+├── README.md
+├── package.json
 ├── src/<br>
 │   ├── App.js<br>
 │   ├── components/<br>
