@@ -1,6 +1,5 @@
 # React App with Bootstrap Template and JSON Data
-
-This is a React app that uses a Bootstrap template and JSON data in JavaScript. The app is structured as follows:
+This is a React app that uses a Bootstrap template, JSON data, and multilingual support. The app is structured as follows:
 README.md<br>
 Project Root<br>
 ├── README.md<br>
