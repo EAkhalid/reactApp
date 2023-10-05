@@ -6,42 +6,37 @@ Here is a sample README file for a GitHub React app that uses a Bootstrap templa
 
 This is a React app that uses a Bootstrap template and JSON data in JavaScript. The app is structured as follows:
 README.md
-src/
-├── App.js
-├── components/
-│   ├── About.jsx
-│   ├── Contacts.jsx
-│   ├── Features.jsx
-│   ├── Header.jsx
-│   ├── InlineError.js
-│   ├── Loading.jsx
-│   ├── MainBanner.jsx
-│   ├── Menu.jsx
-│   ├── MyFooter.jsx
-│   ├── Portofolio.jsx
-│   ├── Services.jsx
-│   ├── Testimonial.jsx
-│   └── Toast.jsx
-├── api
-│   └── index.js
-├── data
-│   ├── aboutData.js
-│   ├── contactData.js
-│   ├── featuresData.js
-│   ├── homeData.js
-│   ├── menuData.js
-│   ├── menuLData.js
-│   ├── newsLetter.js
-│   ├── portoData.js
-│   ├── servicesData.js
-│   ├── testimonialData.js        
-│   └── videoTitle.js
-├── services
-│   └── sendMessage.js
-├── index.css
-├── index.js
-└── validation.js
-
+Project Root
+├── README.md
+├── package.json
+├── src/
+│   ├── App.js
+│   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Contacts.jsx
+│   │   ├── Features.jsx
+│   │   ├── Header.jsx
+│   │   └── ...
+│   ├── api/
+│   │   └── index.js
+│   ├── data/
+│   │   ├── aboutData.js
+│   │   ├── contactData.js
+│   │   ├── featuresData.js
+│   │   └── ...
+│   ├── services/
+│   │   └── index.js
+│   ├── index.css
+│   └── index.js
+└── public/
+    ├── assets/
+    │   ├── css/
+    │   │   └── bootstrap.min.css
+    │   ├── fonts/
+    │   │   └── FontAwesome.otf
+    │   └── images/
+    │       └── logo.png
+    └── index.html
 
 The `App.js` file is the main entry point for the React app. It imports the necessary components and renders them to the screen.
 
@@ -76,6 +71,3 @@ The `index.css` and `index.js` files are the main CSS and JavaScript files for t
 ## License
 
 This project is licensed under the MIT License.
-
-
-You can save this file as `README.md` in the root directory of your project.
